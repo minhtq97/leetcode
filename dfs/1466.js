@@ -1,4 +1,16 @@
 /**
+ * There are n cities numbered from 0 to n - 1. Given the array connections where connections[i] = [ai, bi] represents a bidirectional road between cities ai and bi.
+ * 
+ * Example 1:
+ * Input: n = 6, connections = [[0,1],[1,3],[2,3],[4,0],[4,5]]
+ * Output: 3
+ * Explanation: Change the direction of edges show in red such that each node can reach the node 0 (capital).
+ * 
+ * Example 2:
+ * Input: n = 5, connections = [[1,0],[1,2],[3,2],[3,4]]
+ * Output: 2
+ * 
+ * 
  * @param {number} n
  * @param {number[][]} connections
  * @return {number}
