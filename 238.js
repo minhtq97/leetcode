@@ -11,7 +11,7 @@ var productExceptSelf = function (nums) {
         if (memo[`${prev * cur}`]) {
             return memo[`${prev * cur}`]
         } else {
-            return prev * cur
+            prev * cur
         }
     }, []))
     return ans;
