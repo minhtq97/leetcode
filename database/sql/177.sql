@@ -6,7 +6,6 @@ BEGIN
         RETURN QUERY SELECT NULL::INT;
  ELSE
   RETURN QUERY (
-    -- Write your PostgreSQL query statement below.
     SELECT DISTINCT e.salary 
     FROM Employee as e
     ORDER BY e.salary DESC 
