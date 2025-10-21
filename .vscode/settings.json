@@ -1,0 +1,73 @@
+{
+  // Standard VS Code settings
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.tabCompletion": "off",
+  "editor.wordBasedSuggestions": "off",
+  "editor.parameterHints.enabled": false,
+  "editor.hover.enabled": false,
+  "typescript.suggest.enabled": false,
+  "javascript.suggest.enabled": false,
+  
+  // Cursor AI settings - correct names
+  "cursor.enableAutoComplete": false,
+  "cursor.enableInlineCompletion": false,
+  "cursor.enableTabCompletion": false,
+  "cursor.enableGhostText": false,
+  "cursor.enableParameterHints": false,
+  "cursor.enableHover": false,
+  "cursor.enableQuickSuggestions": false,
+  "cursor.enableSuggestOnTriggerCharacters": false,
+  "cursor.enableAcceptSuggestionOnEnter": false,
+  "cursor.enableWordBasedSuggestions": false,
+  
+  // Additional Cursor settings
+  "cursor.enableCompletion": false,
+  "cursor.enableSuggestions": false,
+  "cursor.enableIntelliSense": false,
+  "cursor.enableCodeActions": false,
+  "cursor.enableRefactor": false,
+  
+  // Disable all AI features
+  "cursor.ai.enabled": false,
+  "cursor.autocomplete.enabled": false,
+  "cursor.inline.enabled": false,
+  "cursor.ghost.enabled": false,
+  
+  // Force disable
+  "editor.inlineSuggest.enabled": false,
+  "editor.suggest.showKeywords": false,
+  "editor.suggest.showSnippets": false,
+  "editor.suggest.showClasses": false,
+  "editor.suggest.showFunctions": false,
+  "editor.suggest.showVariables": false,
+  "editor.suggest.showConstants": false,
+  "editor.suggest.showEnums": false,
+  "editor.suggest.showEnumMembers": false,
+  "editor.suggest.showWords": false,
+  "editor.suggest.showColors": false,
+  "editor.suggest.showFiles": false,
+  "editor.suggest.showReferences": false,
+  "editor.suggest.showCustomcolors": false,
+  "editor.suggest.showFolders": false,
+  "editor.suggest.showTypeParameters": false,
+  "editor.suggest.showUnits": false,
+  "editor.suggest.showValues": false,
+  "editor.suggest.showEnums": false,
+  "editor.suggest.showEnumMembers": false,
+  "editor.suggest.showKeywords": false,
+  "editor.suggest.showWords": false,
+  "editor.suggest.showColors": false,
+  "editor.suggest.showFiles": false,
+  "editor.suggest.showReferences": false,
+  "editor.suggest.showCustomcolors": false,
+  "editor.suggest.showFolders": false,
+  "editor.suggest.showTypeParameters": false,
+  "editor.suggest.showUnits": false,
+  "editor.suggest.showValues": false
+} 
