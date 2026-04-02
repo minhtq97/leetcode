@@ -15,3 +15,4 @@ class Solution:
 
 print(Solution().canVisitAllRooms([[1],[2],[3],[]]))      
 print(Solution().canVisitAllRooms([[1,3],[3,0,1],[2],[0]])) 
+
